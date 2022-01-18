@@ -1,4 +1,12 @@
-### Hi there 👋
+### My Status
+
+![eliasdc's github stats](https://github-readme-stats.vercel.app/api?username=eliasdc&count_private=true&show_icons=true&theme=radical)
+
+<img src="https://github-profile-trophy.vercel.app/?username=eliasdc&theme=onedark" />
+
+### Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdc&layout=compact&hide=html,css,vhdl,verilog&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eliasdc/eliasdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
