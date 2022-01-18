@@ -5,13 +5,6 @@
 ### 🏆 My Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eliasdc&theme=gruvbox&row=4&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 👨🏻‍💻 Languages and Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdc&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📈 My Contribuition Graph
- ![eliasdc's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eliasdc&theme=gruvbox)
  
 ### 💫 My Streaks
 ![eliasdc's streak](https://github-readme-streak-stats.herokuapp.com/?user=eliasdc&theme=gruvbox)
